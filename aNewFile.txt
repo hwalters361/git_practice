@@ -1,0 +1,7 @@
+Some original text before I add to git project
+
+I add some changes to the file
+
+More changes?
+
+Next but I don't alter the previous lines, not even with an enter
